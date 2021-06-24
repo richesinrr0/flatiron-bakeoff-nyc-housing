@@ -1,5 +1,14 @@
 # Kaggle Starter Code
 
+In this notebook, we walk through a basic workflow for participating in a kaggle competition. 
+
+Specifically, we will:
+
+* Train a model on kaggle training data.
+* Handling missing values.
+* Generate predictions for kaggle test data.
+* Save predictions to a `.csv` file.
+
 ## Develop a model
 
 **Import Packages**
